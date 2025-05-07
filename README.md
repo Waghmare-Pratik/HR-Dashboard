@@ -45,43 +45,16 @@ This project focuses on creating an **HR Analytics Dashboard** using **Power BI*
 
 ---
 
-## 📁 Folder Structure
-
-```
-HR-Analytics-Dashboard/
-├── HR_Attrition_Dashboard.pbix      # Power BI report file
-├── Sample_HR_Data.csv               # Sample dataset used in the dashboard
-├── Screenshots/                     # Dashboard screenshots for preview
-│   └── Overview.png
-├── README.md                        # Project overview and documentation
-```
-
----
-
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshots/Overview.png)
 
----
-
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Open `HR_Attrition_Dashboard.pbix` in Power BI Desktop.
-3. Load or replace the sample dataset with your own HR data.
-4. Refresh visuals and explore insights!
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![HR  Analytics  Dashboard](https://github.com/user-attachments/assets/15cf1e72-cc31-4fdc-88bf-8c8779d492d9)
 
 ---
 
 ## 📬 Connect with Me
 
-Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/your-profile-url) to share feedback or collaborate!
+Feel free to contact or connect on https://www.linkedin.com/in/waghmare-pratik213/ to share feedback or collaborate!
 
 ---
 
